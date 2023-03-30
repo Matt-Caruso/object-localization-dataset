@@ -1,6 +1,6 @@
 img_path,xmin,ymin,xmax,ymax,width,height,label
-train_images/Diamond1.jpg,240,230,202,183,3024,4032,Diamond
-train_images/Diamond10.jpg,240,230,202,183,3024,4032,Diamond
-train_images/Diamond100.jpg,240,230,202,183,3024,4032,Diamond
-train_images/Diamond11.jpg,240,230,202,183,3024,4032,Diamond
-train_images/Diamond14.jpg,240,230,202,183,3024,4032,Diamond
+train_images/Diamond1.jpg,1000,2300,1900,1400,3024,4032,Diamond
+train_images/Diamond10.jpg,2300,2500,3000,2100,3024,4032,Diamond
+train_images/Diamond100.jpg,1500,3000,2100,2500,3024,4032,Diamond
+train_images/Diamond11.jpg,1200,2500,2600,2200,3024,4032,Diamond
+train_images/Diamond14.jpg,400,1200,900,800,3024,4032,Diamond
